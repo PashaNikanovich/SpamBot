@@ -4,13 +4,6 @@ command_prefixes = ['.','!','/']
 ghoul_table_command = 'ghoul-c'
 
 end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
-end_message = 'ТВОЯ МАТЬ ПРЕКРАСНА'
 messages_per_second = 7 # Для ghoul_spam
 sleep_time_ghoul = 0.1 # Для ghoul_table 0.0825
 
